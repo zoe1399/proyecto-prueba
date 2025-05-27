@@ -26,7 +26,8 @@ def aumentar(stocks):
             cant=int(input("cantidad que desee aumentar: "))
             stocks[i]+=cant
             return 
-    print("no se encontro el codigo")        
+    print("no se encontro el codigo")   
+    """ggggg""     
               
          
             
@@ -38,4 +39,4 @@ precio=[2.14,4.21,5.67]
 agregar(codigo)
 print(codigo)
 aumentar(stocks)
-print(stocks)
+print(stocks)"""
